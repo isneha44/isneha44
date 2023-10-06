@@ -1,6 +1,6 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)]()
+[![MasterHead]([(https://tenor.com/view/banner-gif-22206312)]
+
 <h1 align="center">Hi 👋, I'm Imalka Gayani</h1>
 <h3 align="center">A trainee Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288753.jpg
