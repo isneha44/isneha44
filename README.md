@@ -1,5 +1,5 @@
 
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://tenor.com/view/banner-gif-22206312)
+[![MasterHead]([](https://tenor.com/view/banner-gif-22206312)
 )]
 
 <h1 align="center">Hi 👋, I'm Imalka Gayani</h1>
