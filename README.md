@@ -1,5 +1,5 @@
 
-[![MasterHead]([](https://tenor.com/view/banner-gif-22206312)
+[![MasterHead]([][(https://tenor.com/view/banner-gif-22206312)](https://www.canva.com/design/DAFzaBHlqF4/h-GUjKe8NINKOI2PejlAAw/edit)
 )]
 
 <h1 align="center">Hi 👋, I'm Imalka Gayani</h1>
