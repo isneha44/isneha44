@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imalka Gayani</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/isneha44/isneha44/main/banner-3.png"> </div>
+<div align="center"> <img src="https://github.com/isneha44/isneha44/main/banner-3.png"> </div>
 <h3 align="center">A trainee Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288753.jpg
 ")</img>
