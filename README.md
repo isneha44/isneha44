@@ -1,10 +1,5 @@
-[![MasterHead](https://www.canva.com/design/DAFzaBHlqF4/h-GUjKe8NINKOI2PejlAAw/edit
-)](https://imalkaGayani.io
-)
-<div align="center"> <img src="https://raw.githubusercontent.com/isneha/isneha/main/banner-3.png"> </div>
-
-
 <h1 align="center">Hi 👋, I'm Imalka Gayani</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/isneha/isneha/main/banner-3.png"> </div>
 <h3 align="center">A trainee Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288753.jpg
 ")</img>
