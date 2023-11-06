@@ -1,5 +1,5 @@
 
-[!https://www.canva.com/design/DAFzaBHlqF4/h-GUjKe8NINKOI2PejlAAw/edit]([][(https://tenor.com/view/banner-gif-22206312)]
+[!MasterHead]([][(https://tenor.com/view/banner-gif-22206312)]
 )]
 
 <h1 align="center">Hi 👋, I'm Imalka Gayani</h1>
