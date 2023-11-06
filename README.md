@@ -1,7 +1,7 @@
-
 [![MasterHead](https://www.canva.com/design/DAFzaBHlqF4/h-GUjKe8NINKOI2PejlAAw/edit
 )](https://imalkaGayani.io
 )
+<div align="center"> <img src="https://raw.githubusercontent.com/isneha/isneha/main/banner-3.png"> </div>
 
 
 <h1 align="center">Hi 👋, I'm Imalka Gayani</h1>
