@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imalka Gayani</h1>
 <h3 align="center">A trainee Fullstack Developer</h3>
-<img align="center" alt="Coding" width="400" src="vector-illustration-programmer-flat-design-style_844724-3931.png">
+<img align="right" alt="Coding" width="400" src="vector-illustration-programmer-flat-design-style_844724-3931.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isneha44&label=Profile%20views&color=0e75b6&style=flat" alt="isneha44" /> </p>
 
