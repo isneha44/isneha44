@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/imalkag" target="blank"><img src="https://img.shields.io/twitter/follow/imalkag?logo=twitter&style=for-the-badge" alt="imalkag" /></a> </p>
 
-- 🔭 I’m currently working on **Autobahn**
+- 🔭 I’m currently working on **Techmob mobiles**
 
 - 🌱 I’m currently learning **Angular & Docker**
 
-- 🤝 I’m looking for help with **Cypso Lab**
+- 🤝 I’m looking for help with **Developers Stack**
 
 - 💬 Ask me about **java**
 
